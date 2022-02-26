@@ -1,0 +1,6 @@
+@article{li2023mpdp,
+  author = {Chuming Li, Ruonan Jia, Jie Liu, Yinmin Zhang, Yazhe Niu, Yaodong Yang, Yu Liu, Wanli Ouyang},
+  title = {Theoretically Guaranteed Policy Improvement Distilled from Model-Based Planning},
+  journal = {arXiv:2307.12933},
+  year = {2023}
+}
